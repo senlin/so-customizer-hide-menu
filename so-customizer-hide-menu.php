@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: SO Customizer Hide Menu
-Plugin URI: http://so-wp.com/?p=..
+Plugin URI: http://so-wp.com/?p=192
 Description: The SO Customizer Hide Menu hides the Navigation Menu from the Customizer so as not to confuse anyone.
-Version: 1.0
+Version: 1.0.1
 Author: Piet Bos
 Author URI: http://senlinonline.com
 License: GPLv2 or later
