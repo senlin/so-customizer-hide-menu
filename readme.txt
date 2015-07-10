@@ -53,6 +53,10 @@ You can stop looking, there is none. Activate the plugin and the Navigation Menu
 
 Please open an issue on [Github](https://github.com/senlin/so-customizer-hide-menu/issues)
 
+== Screenshots ==
+
+NA
+
 == Changelog ==
 
 = 1.0 =
@@ -60,3 +64,6 @@ Please open an issue on [Github](https://github.com/senlin/so-customizer-hide-me
 * date: July 10, 2015
 * initial release in preparation for WP Plugins Repo application
 
+== Upgrade Notice ==
+
+NA
