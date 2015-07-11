@@ -1,6 +1,6 @@
 # SO Customizer Hide Menu
 
-[![plugin version](https://img.shields.io/wordpress/plugin/v/so-customizer-hide-menu.svg)](http://wordpress.org/plugins/so-customizer-hide-menu)
+[![plugin version](https://img.shields.io/wordpress/plugin/v/so-customizer-hide-menu.svg?style=flat-square)](http://wordpress.org/plugins/so-customizer-hide-menu)
 
 ###### Last updated on 2015.07.11
 ###### requires at least WordPress 4.3
