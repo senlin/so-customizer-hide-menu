@@ -47,7 +47,7 @@ class SOCHM_Load {
 	function constants() {
 
 		/* Set the version number of the plugin. */
-		define( 'SOCHM_VERSION', '1.0' );
+		define( 'SOCHM_VERSION', '1.0.1' );
 
 		/* Set constant path to the plugin URL. */
 		define( 'SOCHM_URI', trailingslashit( plugin_dir_url( __FILE__ ) ) );
