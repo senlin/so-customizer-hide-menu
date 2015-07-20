@@ -2,9 +2,9 @@
 
 [![plugin version](https://img.shields.io/wordpress/plugin/v/so-customizer-hide-menu.svg?style=flat-square)](http://wordpress.org/plugins/so-customizer-hide-menu)
 
-###### Last updated on 2015.07.11
+###### Last updated on 2015.07.20
 ###### requires at least WordPress 4.3
-###### tested up to WordPress 4.3-beta2
+###### tested up to WordPress 4.3-beta3
 ###### Author: [Piet Bos](https://github.com/senlin)
 
 Hides the Navigation Menu from the Customizer so as not to confuse anyone.
@@ -50,6 +50,12 @@ This repo is open to _any_ kind of contributions.
 
 
 ## Changelog
+
+### 1.0.2
+
+* date: July 20, 2015
+* Prevent direct access to files
+* Add version check
 
 ### 1.0.1
 
