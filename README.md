@@ -4,7 +4,7 @@
 
 ###### Last updated on 2015.07.20
 ###### requires at least WordPress 4.3
-###### tested up to WordPress 4.3-beta3
+###### tested up to WordPress 4.4
 ###### Author: [Piet Bos](https://github.com/senlin)
 
 Hides the Navigation Menu from the Customizer so as not to confuse anyone.
