@@ -1,6 +1,6 @@
 === SO Customizer Hide Menu ===
 Contributors: senlin
-Donate link: http://so-wp.com/plugins/donations
+Donate link: https://so-wp.com/plugins/donations
 Tags: customizer, menu, navigation menu, appearance, hide, remove 
 Requires at least: 4.3
 Tested up to: 4.6.1

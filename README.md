@@ -36,7 +36,7 @@ This repo is open to _any_ kind of contributions.
 
 ## Donations
 
-* Donate link: http://so-wp.com/donations
+* Donate link: https://so-wp.com/plugins/donations
 
 ## Connect with us through
 
