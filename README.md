@@ -4,7 +4,7 @@
 
 ###### Last updated on 2015.07.20
 ###### requires at least WordPress 4.3
-###### tested up to WordPress 4.4
+###### tested up to WordPress 4.6.1
 ###### Author: [Piet Bos](https://github.com/senlin)
 
 Hides the Navigation Menu from the Customizer so as not to confuse anyone.
@@ -40,16 +40,24 @@ This repo is open to _any_ kind of contributions.
 
 ## Connect with us through
 
-[Website](http://senlinonline.com)
+[BHI Consulting](https://bohanintl.com)
+
+[SO WP](https://so-wp.com)
 
 [Github](https://github.com/senlin) 
 
-[LinkedIn](https://www.linkedin.com/profile/view?id=1734375) 
+[LinkedIn](https://www.linkedin.com/in/pietbos) 
 
 [WordPress](https://profiles.wordpress.org/senlin/) 
 
 
 ## Changelog
+
+### 1.0.3
+
+* date: Oct 11, 2016
+* verified compatibility WP 4.6.1
+* edited readme files
 
 ### 1.0.2
 

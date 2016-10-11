@@ -1,10 +1,10 @@
 === SO Customizer Hide Menu ===
 Contributors: senlin
-Donate link: http://so-wp.com/donations
+Donate link: http://so-wp.com/plugins/donations
 Tags: customizer, menu, navigation menu, appearance, hide, remove 
 Requires at least: 4.3
-Tested up to: 4.4
-Stable tag: 1.0.2
+Tested up to: 4.6.1
+Stable tag: 1.0.3
 License: GPLv3 or later
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
 
@@ -27,7 +27,7 @@ If you like the SO Customizer Hide Menu plugin, please consider leaving a [revie
 
 == Installation ==
 
-= Wordpress =
+= WordPress =
 
 Search for "so customizer hide menu" and install with the **Plugins > Add New** back-end page.
 
@@ -59,6 +59,12 @@ Please open an issue on [Github](https://github.com/senlin/so-customizer-hide-me
 2. After SO Customizer Hide Menu is active
 
 == Changelog ==
+
+= 1.0.3 =
+
+* date: Oct 11, 2016
+* verified compatibility WP 4.6.1
+* edited readme files
 
 = 1.0.2 =
 
