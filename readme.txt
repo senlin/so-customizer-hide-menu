@@ -4,7 +4,7 @@ Donate link: https://so-wp.com/plugins/donations
 Tags: customizer, menu, navigation menu, appearance, hide, remove 
 Requires at least: 4.3
 Tested up to: 4.8
-Stable tag: 1.1
+Stable tag: 1.1.1
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
