@@ -3,16 +3,16 @@
 Plugin Name: SO Customizer Hide Menu
 Plugin URI: https://so-wp.com/?p=192
 Description: The SO Customizer Hide Menu hides the Navigation Menu from the Customizer so as not to confuse anyone.
-Version: 1.0.4
-Author: Piet Bos
+Version: 1.1
+Author: SO WP
 Author URI: https://so-wp.com/plugins/
-License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3 or later
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: so-customizer-hide-menu
 Domain Path: /languages
 */
 
-/*  Copyright 2015-2016 Piet Bos (email: piet@so-wp.com)
+/*  Copyright 2015-2017 Piet Bos (email: piet@so-wp.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as
@@ -41,7 +41,9 @@ class SOCHM_Load {
 		$sochm = new stdClass;
 
 		/* Set the constants needed by the plugin. */
-		add_action( 'plugins_loaded', array( &$this, 'constants' ), 1 );
+		add_action( 'plugins_loaded', array( $this, 'constants' ), 1 );
+		
+		add_action( 'admin_enqueue_scripts', array( $this, 'sochm_load_custom_admin_style' ) );
 
 	}
 	
@@ -53,10 +55,26 @@ class SOCHM_Load {
 	function constants() {
 
 		/* Set the version number of the plugin. */
-		define( 'SOCHM_VERSION', '1.0.4' );
+		define( 'SOCHM_VERSION', '1.1' );
 
 		/* Set constant path to the plugin URL. */
 		define( 'SOCHM_URI', trailingslashit( plugin_dir_url( __FILE__ ) ) );
+
+	}
+
+	/**
+	 * Register and enqueue the admin stylesheet
+	 * @since 2.0.0
+	 */
+	function load_custom_admin_style() {
+
+		if ( ! is_admin() )
+
+	    	return;
+
+		wp_register_style( 'sochm-admin', SOCHM_URI . 'css/settings.css', false, SOCHM_VERSION );
+
+		wp_enqueue_style( 'sochm-admin' );
 
 	}
 
@@ -65,20 +83,5 @@ class SOCHM_Load {
 $sochm_load = new SOCHM_Load();
 	
 
-add_action( 'admin_enqueue_scripts', 'sochm_load_custom_admin_style' );	
 	
-/**
- * Register and enqueue the admin stylesheet
- * @since 2.0.0
- */
-function sochm_load_custom_admin_style() {
-
-    if ( ! is_admin() )
-    	
-    	return;
 	
-	wp_register_style( 'sochm-admin', SOCHM_URI . 'css/settings.css', false, SOCHM_VERSION );
-	
-	wp_enqueue_style( 'sochm-admin' );
-
-}

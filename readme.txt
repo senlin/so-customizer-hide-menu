@@ -3,10 +3,10 @@ Contributors: senlin
 Donate link: https://so-wp.com/plugins/donations
 Tags: customizer, menu, navigation menu, appearance, hide, remove 
 Requires at least: 4.3
-Tested up to: 4.7
-Stable tag: 1.0.4
+Tested up to: 4.8
+Stable tag: 1.1
 License: GPLv3 or later
-License URI: http://www.gnu.org/licenses/gpl-3.0.html
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Hides the Navigation Menu from the Customizer so as not to confuse anyone.
 
@@ -22,7 +22,7 @@ We support this plugin exclusively through [Github](https://github.com/senlin/so
 
 Thanks for your understanding and cooperation.
 
-If you like the SO Customizer Hide Menu plugin, please consider leaving a [review](http://wordpress.org/support/view/plugin-reviews/so-customizer-hide-menu#postform) or making a [donation](http://so-wp.com/donations/). Thanks!
+If you like the SO Customizer Hide Menu plugin, please consider leaving a [review](http://wordpress.org/support/view/plugin-reviews/so-customizer-hide-menu#postform) or making a [donation](https://so-wp.com/plugins/donations/). Thanks!
 
 
 == Installation ==
@@ -59,6 +59,12 @@ Please open an issue on [Github](https://github.com/senlin/so-customizer-hide-me
 2. After SO Customizer Hide Menu is active
 
 == Changelog ==
+
+= 1.1 =
+
+* date: Jun 1, 2017
+* improve code
+* verified compatibility WP 4.8
 
 = 1.0.4 =
 
