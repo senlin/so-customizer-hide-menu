@@ -60,6 +60,11 @@ Please open an issue on [Github](https://github.com/senlin/so-customizer-hide-me
 
 == Changelog ==
 
+= 1.1.1 =
+
+* date: Jun 1, 2017
+* fix typo
+
 = 1.1 =
 
 * date: Jun 1, 2017

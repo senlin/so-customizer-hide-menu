@@ -53,6 +53,11 @@ This repo is open to _any_ kind of contributions.
 
 ## Changelog
 
+### 1.1.1
+
+* date: Jun 1, 2017
+* fix typo
+
 ### 1.1
 
 * date: Jun 1, 2017

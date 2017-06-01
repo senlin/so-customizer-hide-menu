@@ -43,7 +43,7 @@ class SOCHM_Load {
 		/* Set the constants needed by the plugin. */
 		add_action( 'plugins_loaded', array( $this, 'constants' ), 1 );
 		
-		add_action( 'admin_enqueue_scripts', array( $this, 'sochm_load_custom_admin_style' ) );
+		add_action( 'admin_enqueue_scripts', array( $this, 'load_custom_admin_style' ) );
 
 	}
 	
