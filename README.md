@@ -1,4 +1,4 @@
-# SO Customizer Hide Menu
+# Customizer Hide Menu
 
 [![plugin version](https://img.shields.io/wordpress/plugin/v/so-customizer-hide-menu.svg?style=flat-square)](http://wordpress.org/plugins/so-customizer-hide-menu)
 
@@ -36,13 +36,15 @@ This repo is open to _any_ kind of contributions.
 
 ## Donations
 
-* Donate link: https://so-wp.com/plugins/donations
+* Donate link: https://so-wp.com/donations
 
 ## Connect with us through
 
 [BHI Consulting for Websites](https://bohanintl.com)
 
 [SO WP](https://so-wp.com)
+
+[WP TIPS](https://bohanintl.com/wptips/)
 
 [Github](https://github.com/senlin) 
 
@@ -52,6 +54,12 @@ This repo is open to _any_ kind of contributions.
 
 
 ## Changelog
+
+### 1.1.2
+
+* date: Sep 27, 2017
+* adjust some links due to overhaul of SO WP website
+* banner image: replace and add retina
 
 ### 1.1.1
 

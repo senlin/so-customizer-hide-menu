@@ -1,10 +1,10 @@
-=== SO Customizer Hide Menu ===
+=== Customizer Hide Menu ===
 Contributors: senlin
-Donate link: https://so-wp.com/plugins/donations
-Tags: customizer, menu, navigation menu, appearance, hide, remove 
+Donate link: https://so-wp.com/donations
+Tags: customizer, menu, navigation menu, appearance, hide, remove
 Requires at least: 4.3
 Tested up to: 4.8
-Stable tag: 1.1.1
+Stable tag: 1.1.2
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -18,18 +18,16 @@ As there are many people who don't have to time to explain this to all existing 
 
 We support this plugin exclusively through [Github](https://github.com/senlin/so-customizer-hide-menu/issues). Therefore, if you have any questions, need help and/or want to make a feature request, please open an issue over at Github. You can also browse through open and closed issues to find what you are looking for and perhaps even help others.
 
-**PLEASE DO NOT POST YOUR ISSUES VIA THE WORDPRESS FORUMS**
+If you like the Customizer Hide Menu plugin, please consider leaving a [review](http://wordpress.org/support/view/plugin-reviews/so-customizer-hide-menu#postform) or making a [donation](https://so-wp.com/donations). Thanks!
 
-Thanks for your understanding and cooperation.
-
-If you like the SO Customizer Hide Menu plugin, please consider leaving a [review](http://wordpress.org/support/view/plugin-reviews/so-customizer-hide-menu#postform) or making a [donation](https://so-wp.com/plugins/donations/). Thanks!
+[Customizer Hide Menu plugin](https://so-wp.com/plugin/customizer-hide-menu) by SO WP.
 
 
 == Installation ==
 
 = WordPress =
 
-Search for "so customizer hide menu" and install with the **Plugins > Add New** back-end page.
+Search for "customizer hide menu" and install with the **Plugins > Add New** back-end page.
 
  &hellip; OR &hellip;
 
@@ -59,6 +57,12 @@ Please open an issue on [Github](https://github.com/senlin/so-customizer-hide-me
 2. After SO Customizer Hide Menu is active
 
 == Changelog ==
+
+= 1.1.2 =
+
+* date: Sep 27, 2017
+* adjust some links due to overhaul of SO WP website
+* banner image: replace and add retina
 
 = 1.1.1 =
 

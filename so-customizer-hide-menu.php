@@ -1,11 +1,11 @@
 <?php
 /*
-Plugin Name: SO Customizer Hide Menu
-Plugin URI: https://so-wp.com/?p=192
-Description: The SO Customizer Hide Menu hides the Navigation Menu from the Customizer so as not to confuse anyone.
-Version: 1.1.1
+Plugin Name: Customizer Hide Menu
+Plugin URI: https://so-wp.com/plugin/customizer-hide-menu
+Description: The Customizer Hide Menu hides the Navigation Menu from the Customizer so as not to confuse anyone.
+Version: 1.1.2
 Author: SO WP
-Author URI: https://so-wp.com/plugins/
+Author URI: https://so-wp.com
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 Text Domain: so-customizer-hide-menu
@@ -32,7 +32,7 @@ GNU General Public License for more details.
 if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 
 class SOCHM_Load {
-	
+
 	function __construct() {
 
 		global $sochm;
@@ -42,11 +42,11 @@ class SOCHM_Load {
 
 		/* Set the constants needed by the plugin. */
 		add_action( 'plugins_loaded', array( $this, 'constants' ), 1 );
-		
+
 		add_action( 'admin_enqueue_scripts', array( $this, 'load_custom_admin_style' ) );
 
 	}
-	
+
 	/**
 	 * Defines constants used by the plugin.
 	 *
@@ -55,7 +55,7 @@ class SOCHM_Load {
 	function constants() {
 
 		/* Set the version number of the plugin. */
-		define( 'SOCHM_VERSION', '1.1.1' );
+		define( 'SOCHM_VERSION', '1.1.2' );
 
 		/* Set constant path to the plugin URL. */
 		define( 'SOCHM_URI', trailingslashit( plugin_dir_url( __FILE__ ) ) );
@@ -81,7 +81,7 @@ class SOCHM_Load {
 }
 
 $sochm_load = new SOCHM_Load();
-	
 
-	
-	
+
+
+
