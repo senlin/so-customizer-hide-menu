@@ -2,8 +2,8 @@
 
 [![plugin version](https://img.shields.io/wordpress/plugin/v/so-customizer-hide-menu.svg?style=flat-square)](http://wordpress.org/plugins/so-customizer-hide-menu)
 
-###### Last updated September 27, 2017
-###### tested up to WordPress 4.8
+###### Last updated October 29, 2018
+###### tested up to WordPress 5.0
 ###### Author: [Piet Bos](https://github.com/senlin)
 ###### [Stable Version](https://wordpress.org/plugins/so-customizer-hide-menu/) (via WordPress Plugins Repository)
 ###### [Plugin homepage](https://so-wp.com/plugin/so-customizer-hide-menu)

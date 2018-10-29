@@ -3,7 +3,7 @@ Contributors: senlin
 Donate link: https://so-wp.com/donations
 Tags: customizer, menu, navigation menu, appearance, hide, remove
 Requires at least: 4.3
-Tested up to: 4.8
+Tested up to: 5.0
 Stable tag: 1.1.2
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
