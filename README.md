@@ -50,7 +50,7 @@ This repo is open to _any_ kind of contributions.
 
 [Github](https://github.com/senlin) 
 
-[LinkedIn](https://www.linkedin.com/in/pietbos) 
+[LinkedIn](https://www.linkedin.com/in/pieterbos83) 
 
 [WordPress](https://profiles.wordpress.org/senlin/) 
 
