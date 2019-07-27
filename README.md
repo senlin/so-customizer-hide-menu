@@ -1,6 +1,6 @@
 # Customizer Hide Menu
 
-[![plugin version](https://img.shields.io/wordpress/plugin/v/so-customizer-hide-menu.svg?style=flat-square)](http://wordpress.org/plugins/so-customizer-hide-menu)
+[![plugin version](https://img.shields.io/wordpress/plugin/v/so-customizer-hide-menu.svg?style=flat-square)](http://wordpress.org/plugins/so-customizer-hide-menu) [![WP compatibility](https://plugintests.com/plugins/so-customizer-hide-menu/wp-badge.svg)](https://plugintests.com/plugins/so-customizer-hide-menu/latest) [![PHP compatibility](https://plugintests.com/plugins/so-customizer-hide-menu/php-badge.svg)](https://plugintests.com/plugins/so-customizer-hide-menu/latest) [![ClassicPress tested on version 1.0.1](https://img.shields.io/badge/ClassicPress-1.0.1-03768e.svg?style=flat-round)](https://www.classicpress.net)
 
 ###### Last updated October 29, 2018
 ###### tested up to WordPress 5.0
