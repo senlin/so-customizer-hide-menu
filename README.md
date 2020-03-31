@@ -2,9 +2,9 @@
 
 [![plugin version](https://img.shields.io/wordpress/plugin/v/so-customizer-hide-menu.svg?style=flat-square)](http://wordpress.org/plugins/so-customizer-hide-menu)
 
-###### Last updated October 29, 2018
-###### tested up to WordPress 5.0
-###### Author: [Piet Bos](https://github.com/senlin)
+###### Last updated March 31, 2020
+###### tested up to WordPress 5.4
+###### Author: [Pieter Bos](https://github.com/senlin)
 ###### [Stable Version](https://wordpress.org/plugins/so-customizer-hide-menu/) (via WordPress Plugins Repository)
 ###### [Plugin homepage](https://so-wp.com/plugin/so-customizer-hide-menu)
 
@@ -42,7 +42,7 @@ This repo is open to _any_ kind of contributions.
 
 ## Connect with us through
 
-[BHI Consulting for Websites](https://bohanintl.com)
+[BHI Localization for Websites](https://www.bhi-localization.com)
 
 [SO WP](https://so-wp.com)
 
@@ -50,7 +50,7 @@ This repo is open to _any_ kind of contributions.
 
 [Github](https://github.com/senlin) 
 
-[LinkedIn](https://www.linkedin.com/in/pietbos) 
+[LinkedIn](https://www.linkedin.com/in/pieterbos83) 
 
 [WordPress](https://profiles.wordpress.org/senlin/) 
 

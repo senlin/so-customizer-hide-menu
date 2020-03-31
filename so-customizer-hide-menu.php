@@ -12,7 +12,7 @@ Text Domain: so-customizer-hide-menu
 Domain Path: /languages
 */
 
-/*  Copyright 2015-2017 Piet Bos (email: piet@so-wp.com)
+/*  Copyright 2015-2017 Piet Bos (email: pieter@so-wp.com)
 
 This program is free software; you can redistribute it and/or modify
 it under the terms of the GNU General Public License, version 2, as
