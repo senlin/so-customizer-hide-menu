@@ -1,6 +1,6 @@
 # Customizer Hide Menu
 
-[![plugin version](https://img.shields.io/wordpress/plugin/v/so-customizer-hide-menu.svg?style=flat-square)](http://wordpress.org/plugins/so-customizer-hide-menu)
+[![plugin version](https://img.shields.io/wordpress/plugin/v/so-customizer-hide-menu.svg?style=flat-square)](http://wordpress.org/plugins/so-customizer-hide-menu) [![WP compatibility](https://plugintests.com/plugins/so-customizer-hide-menu/wp-badge.svg)](https://plugintests.com/plugins/so-customizer-hide-menu/latest) [![PHP compatibility](https://plugintests.com/plugins/so-customizer-hide-menu/php-badge.svg)](https://plugintests.com/plugins/so-customizer-hide-menu/latest) [![ClassicPress tested on version 1.0.1](https://img.shields.io/badge/ClassicPress-1.0.1-03768e.svg?style=flat-round)](https://www.classicpress.net)
 
 ###### Last updated March 31, 2020
 ###### tested up to WordPress 5.4
@@ -48,11 +48,11 @@ This repo is open to _any_ kind of contributions.
 
 [WP TIPS](https://bohanintl.com/wptips/)
 
-[Github](https://github.com/senlin) 
+[Github](https://github.com/senlin)
 
-[LinkedIn](https://www.linkedin.com/in/pieterbos83) 
+[LinkedIn](https://www.linkedin.com/in/pieterbos83)
 
-[WordPress](https://profiles.wordpress.org/senlin/) 
+[WordPress](https://profiles.wordpress.org/senlin/)
 
 
 ## Changelog
