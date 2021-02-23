@@ -1,21 +1,21 @@
 # Customizer Hide Menu
 
-[![plugin version](https://img.shields.io/wordpress/plugin/v/so-customizer-hide-menu.svg?style=flat-square)](http://wordpress.org/plugins/so-customizer-hide-menu) [![WP compatibility](https://plugintests.com/plugins/so-customizer-hide-menu/wp-badge.svg)](https://plugintests.com/plugins/so-customizer-hide-menu/latest) [![PHP compatibility](https://plugintests.com/plugins/so-customizer-hide-menu/php-badge.svg)](https://plugintests.com/plugins/so-customizer-hide-menu/latest) [![ClassicPress tested on version 1.0.1](https://img.shields.io/badge/ClassicPress-1.0.1-03768e.svg?style=flat-round)](https://www.classicpress.net)
+[![plugin version](https://img.shields.io/wordpress/plugin/v/so-customizer-hide-menu.svg?style=flat-square)](http://wordpress.org/plugins/so-customizer-hide-menu) [![WP compatibility](https://plugintests.com/plugins/so-customizer-hide-menu/wp-badge.svg)](https://plugintests.com/plugins/so-customizer-hide-menu/latest) [![PHP compatibility](https://plugintests.com/plugins/so-customizer-hide-menu/php-badge.svg)](https://plugintests.com/plugins/so-customizer-hide-menu/latest)
 
-###### Last updated March 31, 2020
-###### tested up to WordPress 5.4
+###### Last updated February 23, 2021
+###### tested up to WordPress 5.6.2
 ###### Author: [Pieter Bos](https://github.com/senlin)
 ###### [Stable Version](https://wordpress.org/plugins/so-customizer-hide-menu/) (via WordPress Plugins Repository)
 ###### [Plugin homepage](https://so-wp.com/plugin/so-customizer-hide-menu)
 
 
-Hides the Navigation Menu from the Customizer so as not to confuse anyone.
+Removes the Navigation Menu panel from the Customizer so as not to confuse anyone.
 
 ## Description
 
 Whilst many people have opposed the decision, the navigation menu interface was forced into the Customizer.
 
-As there are many people who don't have to time to explain this to all existing clients, this plugin simply hides the menu panel/section from the Customizer.
+As there are many people who don't have to time to explain this to all existing clients, this plugin simply removes the menu panel/section from the Customizer.
 
 ## Frequently Asked Questions
 
@@ -56,6 +56,11 @@ This repo is open to _any_ kind of contributions.
 
 
 ## Changelog
+
+### 1.2.0
+
+* date: Feb 23, 2021
+* switch to filter that removes panel; thanks to [@erikjoling](https://github.com/senlin/so-customizer-hide-menu/issues/1) for his suggestion
 
 ### 1.1.2
 
