@@ -43,7 +43,7 @@ class SOCHM_Load {
 		/* Set the constants needed by the plugin. */
 		add_action( 'plugins_loaded', array( $this, 'constants' ), 1 );
 
-		add_action( 'admin_enqueue_scripts', array( $this, 'load_custom_admin_style' ) );
+		add_filter( 'customize_loaded_components', array( $this, 'sochm_remove_nav_menus_panel' ) );
 
 	}
 
@@ -63,21 +63,21 @@ class SOCHM_Load {
 	}
 
 	/**
-	 * Register and enqueue the admin stylesheet
-	 * @since 2.0.0
+	 * Removes the core 'Menus' panel from the Customizer.
+	 *
+	 * @param array $components Core Customizer components list.
+	 * @return array (Maybe) modified components list.
+	 *
+	 * @since 1.2.0
 	 */
-	function load_custom_admin_style() {
-
-		if ( ! is_admin() )
-
-	    	return;
-
-		wp_register_style( 'sochm-admin', SOCHM_URI . 'css/settings.css', false, SOCHM_VERSION );
-
-		wp_enqueue_style( 'sochm-admin' );
-
+	function sochm_remove_nav_menus_panel( $components ) {
+		$i = array_search( 'nav_menus', $components );
+		if ( false !== $i ) {
+			unset( $components[ $i ] );
+		}
+		return $components;
 	}
-
+	
 }
 
 $sochm_load = new SOCHM_Load();
