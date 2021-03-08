@@ -2,8 +2,8 @@
 
 [![plugin version](https://img.shields.io/wordpress/plugin/v/so-customizer-hide-menu.svg?style=flat-square)](http://wordpress.org/plugins/so-customizer-hide-menu) [![WP compatibility](https://plugintests.com/plugins/so-customizer-hide-menu/wp-badge.svg)](https://plugintests.com/plugins/so-customizer-hide-menu/latest) [![PHP compatibility](https://plugintests.com/plugins/so-customizer-hide-menu/php-badge.svg)](https://plugintests.com/plugins/so-customizer-hide-menu/latest)
 
-###### Last updated February 23, 2021
-###### tested up to WordPress 5.6.2
+###### Last updated March 8, 2021
+###### tested up to WordPress 5.7
 ###### Author: [Pieter Bos](https://github.com/senlin)
 ###### [Stable Version](https://wordpress.org/plugins/so-customizer-hide-menu/) (via WordPress Plugins Repository)
 ###### [Plugin homepage](https://so-wp.com/plugin/so-customizer-hide-menu)
