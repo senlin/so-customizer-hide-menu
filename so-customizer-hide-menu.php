@@ -3,8 +3,8 @@
 Plugin Name: Customizer Hide Menu
 Plugin URI: https://so-wp.com/plugin/customizer-hide-menu
 Description: The Customizer Hide Menu hides the Navigation Menu from the Customizer so as not to confuse anyone.
-Version: 1.2.0
-Tested up to: 6.9
+Version: 1.2.1
+Tested up to: 7.1
 Author: SO WP
 Author URI: https://so-wp.com
 License: GPLv3 or later
